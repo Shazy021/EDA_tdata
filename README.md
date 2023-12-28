@@ -11,4 +11,4 @@
 - time_series_tdata.ipynb: Jupyter Notebook файл, анализ временных рядов (подключение к бд через: **JDBC postgresql driver ver-42.6.0**).
 
 ##
-Ссылка на kanban доску проекта: https://github.com/users/Shazy021/projects/1/views/1
+Ссылка на сanban доску проекта: https://github.com/users/Shazy021/projects/1/views/1
